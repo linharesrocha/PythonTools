@@ -17,17 +17,17 @@
 
 # Clock :clock1:
 
-![](https://github.com/linharesrocha/PythonTools/blob/master/Clock/clock.gif)
+![](https://github.com/linharesrocha/PythonTools/blob/master/Clock/clock2.gif)
 
 
 
 # Notepad :spiral_notepad:
 
-![](https://github.com/linharesrocha/PythonTools/blob/master/Notepad/notepad.gif)
+![](https://github.com/linharesrocha/PythonTools/blob/master/Notepad/notepad2.gif)
 
 
 
 # Bitcoin Price Tracker :moneybag:
 
-![](https://github.com/linharesrocha/PythonTools/blob/master/BitcoinPriceTracker/bitcointracker.gif)
+![](https://github.com/linharesrocha/PythonTools/blob/master/BitcoinPriceTracker/bitcointracker2.gif)
 

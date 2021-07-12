@@ -8,7 +8,7 @@
 * _[Clock](https://github.com/linharesrocha/PythonTools#clock-clock1)_
 * _[Notepad](https://github.com/linharesrocha/PythonTools#notepad-spiral_notepad)_
 * _[Bitcoin Price Tracker](https://github.com/linharesrocha/PythonTools#bitcoin-price-tracker-moneybag)_
-* _[Covid-19 Tracker World]()_
+* _[Covid-19 Tracker World](https://github.com/linharesrocha/PythonTools#covid-19-tracker-world-chart_with_upwards_trend)_
 * _[News App]()_
 
 # Weather App :sunny:
@@ -36,4 +36,8 @@
 
 
 # Covid-19 Tracker World :chart_with_upwards_trend:
+
+![](https://github.com/linharesrocha/PythonTools/blob/master/BitcoinPriceTracker/bitcointracker2.gif)
+
+# Top News App :newspaper:
 

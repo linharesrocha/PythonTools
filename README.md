@@ -9,7 +9,7 @@
 * _[Notepad](https://github.com/linharesrocha/PythonTools#notepad-spiral_notepad)_
 * _[Bitcoin Price Tracker](https://github.com/linharesrocha/PythonTools#bitcoin-price-tracker-moneybag)_
 * _[Covid-19 Tracker World](https://github.com/linharesrocha/PythonTools#covid-19-tracker-world-chart_with_upwards_trend)_
-* _[News App]()_
+* _[News App](https://github.com/linharesrocha/PythonTools#top-news-app-newspaper)_
 
 # Weather App :sunny:
 
@@ -37,7 +37,8 @@
 
 # Covid-19 Tracker World :chart_with_upwards_trend:
 
-![](https://github.com/linharesrocha/PythonTools/blob/master/BitcoinPriceTracker/bitcointracker2.gif)
+![](https://github.com/linharesrocha/PythonTools/blob/master/Covid-19%20Tracker%20World/covidworld.gif)
 
 # Top News App :newspaper:
 
+![](https://github.com/linharesrocha/PythonTools/blob/master/News%20App/newsapp.png)
